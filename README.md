@@ -12,10 +12,20 @@ This module provided foundational knowledge and practical skills in programming 
 
 ### Weekly Content and Tasks
 #### Week 1: Representing Data
-We explored how data can be represented in different formats, focusing on CSV and JSON. specifically, we discussed:
+We explored how data can be represented in different formats, focusing on CSV and JSON. Specifically, we discussed:
 
 The structure and characteristics of CSV files, including delimiters, quotes, and how to read them as lists, dictionaries, and Pandas DataFrames.
 JSON files, their structure, and methods to read data from local files and web sources.
 
 #### Task 1: Create a GitHub repository for this module.
 Link to the task: [PFDA GitHub Repository](https://github.com/FrancescaRuberto/Programming-for-data-analytics)
+
+#### Week 2: Plotting and Visualising Data
+During the second week, we focused on visualising data and creating clear, effective plots using Python. We covered:
+
+- An introduction to data visualisation, explaining its importance and applications.
+- A review of Matplotlib, exploring the fundamentals of creating plots and customizing visual elements.
+- Techniques for creating multiple axes on a single figure, demonstrating how to display different datasets side by side or stacked for better comparison.
+
+#### Task 2: create a Jupyter Notebook to plot the dry bulb temperature over time.
+Link to the task: [assignment2-weather.ipynb](https://github.com/FrancescaRuberto/Programming-for-data-analytics/blob/main/Assignments/assignment2-weather.ipynb)
