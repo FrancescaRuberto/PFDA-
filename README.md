@@ -2,7 +2,7 @@
 
 ![Data Analytics](https://bairesdev.mo.cloudinary.net/blog/2023/06/Is-Python-good-for-software-development.jpg?tx=w_1024,q_auto)
 
-## Course Overview
+## Course Introction & Purpose
 This module provided foundational knowledge and practical skills in programming and data analytics. By the end of the course, learners were able to:
 
 - Programmatically create plots and other visual outputs from data.
