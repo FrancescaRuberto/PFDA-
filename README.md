@@ -29,3 +29,16 @@ During the second week, we focused on visualising data and creating clear, effec
 
 #### Task 2: create a Jupyter Notebook to plot the dry bulb temperature over time.
 Link to the task: [assignment2-weather.ipynb](https://github.com/FrancescaRuberto/Programming-for-data-analytics/blob/main/Assignments/assignment2-weather.ipynb)
+
+
+#### Week 3: Revising Pandas
+In the third week, we revisited Pandas, a powerful library for data manipulation and analysis in Python. The lectures focused on:
+
+- An overview of Pandas, including its purpose and capabilities for reading and writing data to/from various formats.
+- Techniques for manipulating data, such as:
+  - Selecting specific columns and rows using .loc and .iloc.
+  - Creating and deleting columns and rows dynamically.
+  - Guidance on where to find additional resources to deepen our knowledge of Pandas.
+
+#### Tasks 3: create a Jupiter Notebook that featured a pie chart illustrating the distribution of email domains in the CSV file
+Links to the task: [assignment3-pie.ipynb](https://github.com/FrancescaRuberto/Programming-for-data-analytics/blob/main/Assignments/assignment03-pie.ipynb)
