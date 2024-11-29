@@ -68,3 +68,23 @@ During the fifth week, we focused on NumPy, a powerful library for numerical com
 
 #### Task 5: create a notebook that simulates 1,000 battle rounds in Risk (3 attackers vs 2 defenders). 
 Link to the task: [assignment_5_risk.ipynb](https://github.com/FrancescaRuberto/Programming-for-data-analytics/blob/main/Assignments/assignment_5_risk.ipynb)
+
+
+### Week 6: More on PANDAS
+In Week 6, we expanded our knowledge of Pandas by focusing on working with dates and times, analyzing time series data, and exploring data sources in the cloud. Key topics included:
+
+- Python datetime module:
+  - Manipulating dates and times programmatically.
+  - Converting strings to datetime objects.
+- Time Series Analysis in Pandas:
+  - Cleaning and parsing real-world time series data.
+  - Setting the DataFrame index to a datetime column.
+  - Resampling and aggregating data based on time intervals.
+- Synthetic Data Generation:
+  - Creating time series data using date_range().
+  - Generating random numbers with Poisson distributions.
+  - Simulating data with specific characteristics.
+
+#### Task 6: create a notebook that analyzes the Knock Airport weather data which included temperature analysis and wind speed analysis. 
+Link to the task: [assignment_6_Weather.ipynb](https://colab.research.google.com/drive/13Gd0iIfYaVFa5rhZzV1nXNYQP1DlIpBp?usp=sharing)
+NB. This task was completed in Google Colab due to technical issues with VS Code, ensuring smooth execution and presentation of results.
