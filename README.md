@@ -52,3 +52,19 @@ In the fourth week, we explored Regular Expressions (RegEx), a powerful tool for
 - Applying RegEx within Pandas, showcasing how it can enhance data preprocessing and cleaning.
 
 #### Task 4: there were no specific tasks assigned this week. Instead, a lab session was used to practice the concepts introduced in the lectures.
+
+
+### Week 4: NumPy and Random number generation
+During the fifth week, we focused on NumPy, a powerful library for numerical computations, and techniques for generating random numbers. The topics covered included:
+
+- Introduction to NumPy:
+  - What NumPy is and how it leverages compiled code for performance.
+  - Fundamental operations with matrices and arrays.
+  - A guide to exploring the NumPy documentation for further learning.
+- Random Number Generation:
+  - Understanding pseudo-random number generators.
+  - Setting random seeds for reproducibility.
+  - Exploring different ranges and distributions for random numbers.
+
+#### Task 5: create a notebook that simulates 1,000 battle rounds in Risk (3 attackers vs 2 defenders). 
+Link to the task: [assignment_5_risk.ipynb](https://github.com/FrancescaRuberto/Programming-for-data-analytics/blob/main/Assignments/assignment_5_risk.ipynb)
