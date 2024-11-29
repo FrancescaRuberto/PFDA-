@@ -40,5 +40,15 @@ In the third week, we revisited Pandas, a powerful library for data manipulation
   - Creating and deleting columns and rows dynamically.
   - Guidance on where to find additional resources to deepen our knowledge of Pandas.
 
-#### Tasks 3: create a Jupiter Notebook that featured a pie chart illustrating the distribution of email domains in the CSV file
+#### Task 3: create a Jupiter Notebook that featured a pie chart illustrating the distribution of email domains in the CSV file
 Links to the task: [assignment3-pie.ipynb](https://github.com/FrancescaRuberto/Programming-for-data-analytics/blob/main/Assignments/assignment03-pie.ipynb)
+
+
+### Week 4: Regular Expressions
+In the fourth week, we explored Regular Expressions (RegEx), a powerful tool for searching, matching, and manipulating strings. The lectures focused on:
+
+- An introduction to Regular Expressions, explaining their syntax and common use cases.
+- Using the re module in Python to implement RegEx for string manipulation tasks.
+- Applying RegEx within Pandas, showcasing how it can enhance data preprocessing and cleaning.
+
+#### Task 4: there were no specific tasks assigned this week. Instead, a lab session was used to practice the concepts introduced in the lectures.
