@@ -54,7 +54,7 @@ In the fourth week, we explored Regular Expressions (RegEx), a powerful tool for
 #### Task 4: there were no specific tasks assigned this week. Instead, a lab session was used to practice the concepts introduced in the lectures.
 
 
-### Week 4: NumPy and Random number generation
+### Week 5: NumPy and Random number generation
 During the fifth week, we focused on NumPy, a powerful library for numerical computations, and techniques for generating random numbers. The topics covered included:
 
 - Introduction to NumPy:
